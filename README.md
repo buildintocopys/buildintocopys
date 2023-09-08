@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Thicc Preston
+- 👀 I’m interested in Pet Simulator Z...
+- 💞️ I’m looking to collaborate on Pet Simulator Z...
+- 📫 How to reach me buildintocpys#0001 on discord...
+
+<!---
+buildintocopys/buildintocopys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
